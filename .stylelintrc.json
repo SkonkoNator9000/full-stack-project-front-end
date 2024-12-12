@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "stylelint-config-standard-scss",
+    "stylelint-config-property-sort-order-smacss"
+  ],
+  "ignoreFiles": ["dist/**/*.css"]
+}
